@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/spotify-portfolio-player/static/css/main.3e2add7d.css",
+    "main.js": "/spotify-portfolio-player/static/js/main.12f60e7a.js",
+    "index.html": "/spotify-portfolio-player/index.html",
+    "main.3e2add7d.css.map": "/spotify-portfolio-player/static/css/main.3e2add7d.css.map",
+    "main.12f60e7a.js.map": "/spotify-portfolio-player/static/js/main.12f60e7a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e2add7d.css",
+    "static/js/main.12f60e7a.js"
+  ]
+}
