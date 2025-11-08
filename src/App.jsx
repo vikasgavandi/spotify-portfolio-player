@@ -518,3 +518,4 @@ const SpotifyPortfolioPlayer = () => {
 };
 
 export default SpotifyPortfolioPlayer;
+export { SpotifyPortfolioPlayer as App };
